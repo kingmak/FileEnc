@@ -1,4 +1,4 @@
-######talk about:
+###### talk about:
 * maincode.py desgin
 * batch file enc? single file enc?
 * dedicated folders for enc/dec files?

@@ -31,5 +31,8 @@ def decrypt(key, source, decode=True):
 key = b"ahmed"
 msg = b"hammad"
 
-crypted = encrypt(key, msg)    
-print(crypted)
+encrypted = encrypt(key, msg)    
+decrypted = decrypt(key, encrypted)
+
+print(encrypted)
+print(decrypted)
